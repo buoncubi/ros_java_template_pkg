@@ -41,4 +41,4 @@ If you want to use custom message, which depends from many packages in your wark
 [Luca Buoncompagni](mailto:luca.buoncompagni@edu.unige.it)
 EMAROlab, DIBRIS department, University of Genoa, Italy.
 
-Previous commit for this package can be (found here)[https://gitlab.com/buoncubi/ros_java_template_pkg]
+Previous commit for this package can be [found here](https://gitlab.com/buoncubi/ros_java_template_pkg).
